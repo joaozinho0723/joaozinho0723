@@ -1,15 +1,11 @@
 - # Sobre mim
 
-- :robot:
+- :sunglasses: Olá meu nome é joaozinho0723 :clown_face: 
 
-- Olá meu nome é joaozinho0723 
+- :+1: Meu email de contato é joao.lejambre@escola.pr.gov.br :smiley:
 
-- :+1: Meu email de contato é joao.lejambre@escola.pr.gov.br 
+- :smiley: Eu estou interessado em aprender novas linguagens :ghost:
 
-- Eu estou interessado em aprender novas linguagens :ghost:
+- eu estou aprendendo a programar recentemente a linguagem de JavaScript e scratch :money_mouth_face
 
-- eu estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
-
--:clown_face:
-
-
+-
