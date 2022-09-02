@@ -6,6 +6,6 @@
 
 - :smiley: Eu estou interessado em aprender novas linguagens :ghost:
 
-- eu estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
+- Eu estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
 
--
+
